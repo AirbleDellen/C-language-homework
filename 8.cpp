@@ -22,4 +22,5 @@ int main()
 		default:printf("E");
 	}
 	return 0;
+	return 0;
 }
